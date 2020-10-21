@@ -1,0 +1,7 @@
+domain: pipsqueakup.com
+layout: go.kubebuilder.io/v2
+projectName: datav-operator
+repo: github.com/pipsqueakup/datav-operator
+version: 3-alpha
+plugins:
+  go.sdk.operatorframework.io/v2-alpha: {}
